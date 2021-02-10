@@ -24,7 +24,7 @@ and cssSelectors and limit use of xpath.
 (3) Further can implement logger (using log4j, logback etc) for creating log files.
 
 There are 2 way to run the tests: 
-(1) Open the project in Eclipse navigate to src > test > java > Runner and right click TestRunner.java to run tests 
+(1) Open the project in Eclipse navigate to src > test > java > com.rbs.RbsOnlineStore and right click TestRunner.java to run tests 
 (2) Open a command/terminal window, cd to the directory where the project is located and run the following: mvn test
 
 ![ExtentReport](https://user-images.githubusercontent.com/29259684/107400608-f5ffa300-6b27-11eb-8ad4-1039c0924a50.PNG)
